@@ -2,7 +2,7 @@
 Pada repository ini adalah contoh program Enkapsulasi pada matakuliah Objek Oriented Programming dengan java Netbeans.
 
 __Persegi.java__
-``
+`
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -52,4 +52,4 @@ public class Persegi {
        
 }
 
-``
+`
